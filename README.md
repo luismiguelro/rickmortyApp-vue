@@ -1,6 +1,6 @@
 # Rick & Morty App Vue
 
-Esta es una solución al reto de consumir la [API de rick morty](https://rickandmortyapi.com/api/character) con Vue & Tailwind, en el [Workshop: Crear tu primera Web App en Angular/React/Vue](https://gdg.community.dev/events/details/google-gdg-medellin-presents-workshop-crear-tu-primera-web-app-en-angularreactvue/)
+Esta es una solución al reto de consumir la [API de Rick and Morty](https://rickandmortyapi.com) con Vue & Tailwind, en el [Workshop: Crear tu primera Web App en Angular/React/Vue](https://gdg.community.dev/events/details/google-gdg-medellin-presents-workshop-crear-tu-primera-web-app-en-angularreactvue/)
 
 
 
